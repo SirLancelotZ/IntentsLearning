@@ -9,7 +9,7 @@ public class SendMessageActivity extends AppCompatActivity {
 
     private Button buttonSendMessage;
     private EditText editTextMessage;
-
+    private Button buttonShare;
 
 
 
