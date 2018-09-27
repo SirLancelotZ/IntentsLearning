@@ -48,7 +48,7 @@ public class SendMessageActivity extends AppCompatActivity {
 
     private void wireWidgets() {
         message = findViewById(R.id.editText_sendmessage_msg);
-        send = findViewById(R.id.button_sendmessage_send);
+        send = findViewById(R.id.button_sendmessage_msg);
         share = findViewById(R.id.button_sendmessage_share);
     }
 }
